@@ -1,0 +1,1 @@
+"./hal_LCD.obj" "./hal_LCD_battery_indicator.obj" "./main.obj" "./targetConfigs/hal_LCD.obj" "../lnk_msp430fr4133.cmd" -llibc.a 
